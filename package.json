@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Lojex/Matchamotor#readme",
   "description": "",
   "dependencies": {
-    "osmosis": "^1.1.10"
+    "osmosis": "^1.1.10",
+    "single-line-log": "^1.1.2"
   }
 }

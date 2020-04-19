@@ -1,0 +1,387 @@
+{
+    "Abarth": {},
+    "AC": {},
+    "Ak": {},
+    "Alfa Romeo": {},
+    "Alpine": {},
+    "Ariel": {},
+    "Aston Martin": {},
+    "Audi": {},
+    "Austin": {},
+    "Bac": {},
+    "Beauford": {},
+    "Bentley": {},
+    "BMW": {},
+    "Bowler": {},
+    "Bristol": {},
+    "Bugatti": {},
+    "Buick": {},
+    "Cadillac": {},
+    "Caterham": {},
+    "Chesil": {},
+    "Chevrolet": {},
+    "Chrysler": {},
+    "Citroen": {},
+    "Corvette": {},
+    "Cupra": {},
+    "Custom Vehicle": {},
+    "Dacia": {},
+    "Daewoo": {},
+    "Daf": {},
+    "Daihatsu": {},
+    "Daimler": {},
+    "DAX": {},
+    "Delorean": {},
+    "Dodge": {},
+    "DS AUTOMOBILES": {},
+    "Ferrari": {},
+    "Fiat": {},
+    "Ford": {},
+    "Gbs": {},
+    "GMC": {},
+    "Great Wall": {},
+    "Holden": {},
+    "Honda": {},
+    "Humber": {},
+    "Hummer": {},
+    "Hyundai": {},
+    "Infiniti": {},
+    "Isuzu": {},
+    "Iveco": {},
+    "Jaguar": {},
+    "Jeep": {},
+    "Jensen": {},
+    "Kia": {},
+    "KTM": {},
+    "Lada": {},
+    "Lamborghini": {},
+    "Lancia": {},
+    "Land Rover": {},
+    "Levc": {},
+    "Lexus": {},
+    "Lincoln": {},
+    "London Taxis International": {},
+    "Lotus": {},
+    "Maserati": {},
+    "Maybach": {},
+    "Mazda": {},
+    "McLaren": {},
+    "Mercedes-Benz": {},
+    "Messerschmitt": {},
+    "MG": {},
+    "Microcar": {},
+    "MINI": {},
+    "Mitsubishi": {},
+    "MK": {},
+    "Morgan": {},
+    "Morris": {},
+    "Nissan": {},
+    "Noble": {},
+    "Opel": {},
+    "Perodua": {},
+    "Peugeot": {},
+    "Pilgrim": {},
+    "Pontiac": {},
+    "Porsche": {},
+    "Proton": {},
+    "Raw": {},
+    "Reliant": {},
+    "Renault": {},
+    "Replica": {},
+    "Riley": {},
+    "Robin Hood": {},
+    "Rolls-Royce": {},
+    "Rover": {},
+    "Saab": {},
+    "SEAT": {},
+    "Singer": {},
+    "SKODA": {},
+    "Smart": {},
+    "Ssangyong": {},
+    "Standard": {},
+    "Subaru": {},
+    "Sunbeam": {},
+    "Suzuki": {},
+    "Tesla": {},
+    "Tiger": {},
+    "Toyota": {},
+    "Triumph": {},
+    "TVR": {
+        "Cerbera": {
+            "Speed Six": {
+                "1999": {
+                    "details": {
+                        "Price": {
+                            "priceCategories": [
+                                ["18000"]
+                            ],
+                            "averagePrice": null
+                        },
+                        "Mileage": {
+                            "mileageCategories": [
+                                ["45000"]
+                            ],
+                            "averageMileage": null
+                        },
+                        "Gearbox": ["Manual"],
+                        "Fuel type": ["Petrol"],
+                        "Body type": ["Coupe"],
+                        "Engine size": ["4.0L"],
+                        "Private & trade": ["Private adverts"],
+                        "Doors": ["2 doors"],
+                        "Colour": ["Green"],
+                        "Seats": ["4"],
+                        "Acceleration": ["0-5s (0-60mph)"],
+                        "Annual tax": [],
+                        "Drivetrain": ["Rear Wheel Drive"],
+                        "Fuel consumption": [],
+                        "Insurance Group": [],
+                        "CO2 emissions": ["255 g / km +"]
+                    }
+                },
+                "make": "TVR",
+                "model": "Cerbera",
+                "variant": "Speed Six",
+                "years": [1999]
+            }
+        },
+        "Chimaera": {
+            "HC": {
+                "1998": {
+                    "details": {
+                        "Price": {
+                            "priceCategories": [
+                                ["13000", "1"],
+                                ["18000", 1]
+                            ],
+                            "averagePrice": 18000
+                        },
+                        "Mileage": {
+                            "mileageCategories": [
+                                ["30000", "1"],
+                                ["60000", 1]
+                            ],
+                            "averageMileage": 60000
+                        },
+                        "Gearbox": ["Manual"],
+                        "Fuel type": ["Petrol"],
+                        "Body type": ["Convertible"],
+                        "Engine size": ["4.0L", "5.0L"],
+                        "Private & trade": ["Private adverts"],
+                        "Doors": ["2 doors"],
+                        "Colour": ["Blue", "Multicolour"],
+                        "Seats": [],
+                        "Acceleration": ["0-5s (0-60mph)"],
+                        "Annual tax": [],
+                        "Drivetrain": ["Rear Wheel Drive"],
+                        "Fuel consumption": [],
+                        "Insurance Group": [],
+                        "CO2 emissions": []
+                    }
+                },
+                "1999": {
+                    "details": {
+                        "Price": {
+                            "priceCategories": [
+                                ["13000"]
+                            ],
+                            "averagePrice": null
+                        },
+                        "Mileage": {
+                            "mileageCategories": [
+                                ["100000"]
+                            ],
+                            "averageMileage": null
+                        },
+                        "Gearbox": ["Manual"],
+                        "Fuel type": ["Petrol"],
+                        "Body type": ["Convertible"],
+                        "Engine size": ["4.0L"],
+                        "Private & trade": ["Private adverts"],
+                        "Doors": ["2 doors"],
+                        "Colour": ["Blue"],
+                        "Seats": [],
+                        "Acceleration": ["0-5s (0-60mph)"],
+                        "Annual tax": [],
+                        "Drivetrain": ["Rear Wheel Drive"],
+                        "Fuel consumption": [],
+                        "Insurance Group": [],
+                        "CO2 emissions": []
+                    }
+                },
+                "make": "TVR",
+                "model": "Chimaera",
+                "variant": "HC",
+                "years": [1998, 1999]
+            }
+        },
+        "Griffith": {
+            "500": {
+                "1996": {
+                    "details": {
+                        "Price": {
+                            "priceCategories": [
+                                ["20000"]
+                            ],
+                            "averagePrice": null
+                        },
+                        "Mileage": {
+                            "mileageCategories": [
+                                ["50000"]
+                            ],
+                            "averageMileage": null
+                        },
+                        "Gearbox": ["Manual"],
+                        "Fuel type": ["Petrol"],
+                        "Body type": ["Convertible"],
+                        "Engine size": ["5.0L"],
+                        "Private & trade": ["Trade adverts"],
+                        "Doors": ["2 doors"],
+                        "Colour": [],
+                        "Seats": [],
+                        "Acceleration": ["0-5s (0-60mph)"],
+                        "Annual tax": [],
+                        "Drivetrain": ["Rear Wheel Drive"],
+                        "Fuel consumption": [],
+                        "Insurance Group": [],
+                        "CO2 emissions": []
+                    }
+                },
+                "1997": {
+                    "details": {
+                        "Price": {
+                            "priceCategories": [
+                                ["25000"]
+                            ],
+                            "averagePrice": null
+                        },
+                        "Mileage": {
+                            "mileageCategories": [
+                                ["45000"]
+                            ],
+                            "averageMileage": null
+                        },
+                        "Gearbox": ["Manual"],
+                        "Fuel type": ["Petrol"],
+                        "Body type": ["Convertible"],
+                        "Engine size": ["5.0L"],
+                        "Private & trade": ["Private adverts"],
+                        "Doors": ["2 doors"],
+                        "Colour": ["Purple"],
+                        "Seats": [],
+                        "Acceleration": ["0-5s (0-60mph)"],
+                        "Annual tax": [],
+                        "Drivetrain": ["Rear Wheel Drive"],
+                        "Fuel consumption": [],
+                        "Insurance Group": [],
+                        "CO2 emissions": []
+                    }
+                },
+                "make": "TVR",
+                "model": "Griffith",
+                "variant": "500",
+                "years": [1996, 1997]
+            }
+        },
+        "S3": {
+            "make": "TVR",
+            "model": "S3",
+            "variant": "N/A",
+            "years": [1990, 1991]
+        },
+        "Sagaris": {
+            "make": "TVR",
+            "model": "Sagaris",
+            "variant": "N/A",
+            "years": [2005, 2006]
+        },
+        "T350": {
+            "make": "TVR",
+            "model": "T350",
+            "variant": "N/A",
+            "years": [2003, 2008]
+        },
+        "Tamora": {
+            "make": "TVR",
+            "model": "Tamora",
+            "variant": "N/A",
+            "years": [2002, 2004]
+        },
+        "Tuscan": {
+            "S": {
+                "2002": {
+                    "details": {
+                        "Price": {
+                            "priceCategories": [
+                                ["25000", "1"],
+                                ["30000", 1]
+                            ],
+                            "averagePrice": 30000
+                        },
+                        "Mileage": {
+                            "mileageCategories": [
+                                ["40000", "1"],
+                                ["70000", 1]
+                            ],
+                            "averageMileage": 70000
+                        },
+                        "Gearbox": ["Manual"],
+                        "Fuel type": ["Petrol"],
+                        "Body type": ["Coupe"],
+                        "Engine size": ["4.0L"],
+                        "Private & trade": ["Trade adverts"],
+                        "Doors": ["2 doors"],
+                        "Colour": ["Black"],
+                        "Seats": ["2"],
+                        "Acceleration": ["0-5s (0-60mph)"],
+                        "Annual tax": ["Up to £500"],
+                        "Drivetrain": ["Rear Wheel Drive"],
+                        "Fuel consumption": [],
+                        "Insurance Group": [],
+                        "CO2 emissions": ["255 g / km +"]
+                    }
+                },
+                "2003": {
+                    "details": {
+                        "Price": {
+                            "priceCategories": [
+                                ["25000"]
+                            ],
+                            "averagePrice": null
+                        },
+                        "Mileage": {
+                            "mileageCategories": [
+                                ["45000"]
+                            ],
+                            "averageMileage": null
+                        },
+                        "Gearbox": ["Manual"],
+                        "Fuel type": ["Petrol"],
+                        "Body type": ["Convertible"],
+                        "Engine size": ["4.0L"],
+                        "Private & trade": ["Private adverts"],
+                        "Doors": ["2 doors"],
+                        "Colour": ["Grey"],
+                        "Seats": ["2"],
+                        "Acceleration": ["0-5s (0-60mph)"],
+                        "Annual tax": ["£0"],
+                        "Drivetrain": ["Rear Wheel Drive"],
+                        "Fuel consumption": [],
+                        "Insurance Group": [],
+                        "CO2 emissions": ["255 g / km +"]
+                    }
+                },
+                "make": "TVR",
+                "model": "Tuscan",
+                "variant": "S",
+                "years": [2002, 2003]
+            }
+        }
+    },
+    "Vauxhall": {},
+    "Volkswagen": {},
+    "Volvo": {},
+    "Westfield": {},
+    "Yamaha": {},
+    "Zenos": {}
+}
